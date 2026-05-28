@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
- <img src="" width="200" />
+ <img src="./StarCap_logo.png" width="200" />
 </p>
 
 # StarCap
