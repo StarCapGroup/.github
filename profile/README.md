@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/StarCapGroup/.github/main/profile/logo.png" width="200" />
+ <img src="" width="200" />
 </p>
 
 # StarCap
