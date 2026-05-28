@@ -253,7 +253,7 @@ A plataforma transforma dados em decisões, simplifica a complexidade do mercado
 <br><div align="center">
 
 <h2>
-  <img src="logo.png" width="40" align="center">
+  <img src="StarCap_logo.png" width="40" align="center">
   StarCap
 </h2>
 
