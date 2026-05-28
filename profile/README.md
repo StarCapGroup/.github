@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="StarCap Logo" width="200"/>
+<img src="" width="200" />
 
 # StarCap
 
